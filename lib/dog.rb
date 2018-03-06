@@ -1,4 +1,6 @@
 # Your code goes here!
 class Dog
-  fido = Dog.new
+  def Initialize(name)
+    
+  end
 end
